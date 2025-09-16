@@ -26,7 +26,7 @@ const HotGames = () => {
                     <Link href={data.link} > <Image src={data.img} width={200} height={300} alt="Game" className="rounded-lg" /></Link>
                 </div>)} */}
                 <Link href="/" > <Image src="/poker.jpg" width={300} height={300} alt="Game" className="rounded-lg mx-auto" /></Link>
-                <Link href="https://game.pokerwin.cc/0301/web-mobile/?144300a9b3be735bf071392835f726d773f72322cf1ed56181baef8b58c1b2c1&eyJTTiI6IjQ2NDk0N0M3ODc1NjQ4NDlCQzg0NDZEMzlEQjA3NDk2IiwiSUQiOiIxNDVmNWI2Y2RlYWI0NjNhOWYyZTc0ZjJlODM3ZjEyOSIsIk1ldGhvZCI6IkdldExvZ2luSDUiLCJMb2dpbklkIjoiSkJQTTAwMDAwMDAwMDAyNTY1MTYiLCJMYW5ndWFnZSI6IkVuX3VzIiwiU2lnbmF0dXJlIjoiNTc1ZjRlNTE3MGZmZWM3MzBkY2VmZmZjN2NlNGJhZDcifQ==" className="w-[300px] mx-auto flex items-center justify-center text-center px-6 py-2 bg-amber-400 text-black">Play Now</Link>
+                <Link href="https://game.pokerwin.cc/0301/web-mobile/?b3fe6248e6d11e29f87c96de1add3d3442529505aa6df22760092e8f8bc63139&eyJTTiI6IjQ2NDk0N0M3ODc1NjQ4NDlCQzg0NDZEMzlEQjA3NDk2IiwiSUQiOiI0ZWU2NWRkYzM1NmI0YjUwOTMzN2NkZjRmZGQzOWVmZSIsIk1ldGhvZCI6IkdldExvZ2luSDUiLCJMb2dpbklkIjoiSkJQTTAwMDAwMDAwMDAyNTY1MTYiLCJMYW5ndWFnZSI6IkVuX3VzIiwiU2lnbmF0dXJlIjoiNTNiYTE2Y2ZmZTU0ZGEyYzQyYWU0ZGE5NzIxMjBmYzEifQ==" className="w-[300px] mx-auto flex items-center justify-center text-center px-6 py-2 bg-amber-400 text-black">Play Now</Link>
             </div>
         </div>
 
@@ -34,4 +34,5 @@ const HotGames = () => {
 }
 
 export default HotGames 
+
 
